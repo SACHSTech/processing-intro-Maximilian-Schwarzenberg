@@ -26,7 +26,7 @@ public class Sketch extends PApplet {
 	  
 	// sample code, delete this stuff
     // Rectangle for grass
-    fill(86, 125, 70); //Green
+    fill(86, 125, 70); // Green
     rect(0, 300, 400, 100);
     
     // Base square for house
